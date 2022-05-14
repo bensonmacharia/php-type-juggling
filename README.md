@@ -4,9 +4,11 @@ PHP type juggling vulnerabilities arise when loose comparison `(== or !=)` of va
 This repository contains source code for a trivial challenge. Solve it to retrive the JWT authentication token and flag.
 
 Login Page
+
 ![image](https://user-images.githubusercontent.com/8254755/168451505-a9630527-435a-4c42-b3c1-a914059cc9e4.png)
 
 Bypass Authentication to retrieve flag and token
+
 ![image](https://user-images.githubusercontent.com/8254755/168451577-f9843f2c-afab-4599-8103-48341f8d8664.png)
 
 
