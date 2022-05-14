@@ -17,12 +17,12 @@ $ curl http://localhost/web/index.php
 ## References
 > [Authentication Bypass Through PHP Type Juggling](https://bmacharia.com/2022/05/14/php-type-juggling/)
 
-> [Challenge URL] (https://php-type-juggling.herokuapp.com/)
+> [Challenge URL](https://php-type-juggling.herokuapp.com/)
 
-> [Challenge Source Code] (https://github.com/bensonmacharia/php-type-juggling)
+> [Challenge Source Code](https://github.com/bensonmacharia/php-type-juggling)
 
-> [OWASP: PHP Magic Tricks: Type Juggling] (https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf)
+> [OWASP: PHP Magic Tricks: Type Juggling](https://owasp.org/www-pdf-archive/PHPMagicTricks-TypeJuggling.pdf)
 
-> [IppSec: PHP Type Juggling - Why === is Important - Bug Bounty Tips] (https://www.youtube.com/watch?v=idC5SAsKhlE)
+> [IppSec: PHP Type Juggling - Why === is Important - Bug Bounty Tips](https://www.youtube.com/watch?v=idC5SAsKhlE)
 
 
