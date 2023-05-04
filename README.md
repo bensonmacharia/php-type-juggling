@@ -13,7 +13,13 @@ Bypass Authentication to retrieve flag and token
 
 
 ## Deploying
-You can make use of the online version without any installation requirement: URL - `https://php-type-juggling.herokuapp.com/`
+Run in a docker container with docker compose
+```sh
+$ git clone https://github.com/bensonmacharia/php-type-juggling.git
+$ cd php-type-juggling
+$ docker-compose up -d
+$ curl http://0.0.0.0:8088/
+```
 
 Alternatively:
 ```sh
@@ -24,9 +30,7 @@ $ curl http://localhost/web/index.php
 ```
 
 ## References
-> [Authentication Bypass Through PHP Type Juggling](https://bmacharia.com/2022/05/14/php-type-juggling/)
-
-> [Challenge URL](https://php-type-juggling.herokuapp.com/)
+> [Authentication Bypass Through PHP Type Juggling](https://bmacharia.com/php-type-juggling/)
 
 > [Challenge Source Code](https://github.com/bensonmacharia/php-type-juggling)
 
